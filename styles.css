@@ -2,6 +2,7 @@ body{
     background-color:#FFF9D0 ;
     font-family: "Roboto", sans-serif;
     height: 100vh;
+    max-height: 100vh;
     padding:0;
     margin:0;
     display: flex;
